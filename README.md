@@ -1,15 +1,11 @@
-# 👨‍💻 Sina Ahmadi — Front End Developer
-
-📞 +98 0919 150 1293  
-📧 sina247re@gmail.com  
-🌐 [GitHub](https://github.com/YOUR_GITHUB_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+# 👨‍💻 Sina Ahmadi - Front End Developer
 
 ---
 
 ## 📝 Summary
 
-Experienced **Frontend Developer** with **1 year and 8 months** of hands-on experience building high-performance **React** and **Next.js** applications.  
-Specialized in creating **responsive UIs**, writing **clean, maintainable code**, and optimizing performance (🚀 achieved 20% faster load times).  
+Experienced **Frontend Developer** with **+20 months** of hands-on experience building high-performance **React** and **Next.js** applications.  
+Specialized in creating **responsive UIs**, writing **clean, maintainable code** and optimizing performance (achieved 20% faster load times).  
 Proven ability to deliver **scalable, modular components** and enhance **user experience** across multiple projects.  
 ✨ Enthusiastic about **continuous learning**, **collaboration in agile teams**, and building modern, user-focused web solutions.
 
@@ -17,11 +13,11 @@ Proven ability to deliver **scalable, modular components** and enhance **user ex
 
 ## 🛠️ Skills
 
-- **Core Technologies**: ⚡ HTML | ⚡ JavaScript | ⚡ TypeScript
-- **Styling**: 🎨 CSS | 🎨 Bootstrap | 🎨 Tailwind CSS
-- **Frameworks**: ⚛️ React | ⚛️ Next.js
-- **State Management**: 🔄 Redux Toolkit
-- **Version Control & Collaboration**: 🌍 Git | 🌍 GitHub
+- **Core Technologies** : HTML, JavaScript, TypeScript
+- **Styling** : CSS, Bootstrap, Tailwind CSS
+- **Frameworks** : React, Next.js
+- **State Management** : Redux Toolkit
+- **Version Control & Collaboration** : Git, GitHub
 
 ---
 
@@ -39,27 +35,27 @@ Proven ability to deliver **scalable, modular components** and enhance **user ex
 
 ## 📂 Personal Projects
 
-- 🛒 **Shopping Cart** (React + TypeScript + Vite) [GitHub](https://github.com/YOUR_GITHUB_USERNAME/shopping-cart)
+- 🛒 **Shopping Cart** (React + TypeScript + Vite)
 
   - Built a responsive e-commerce cart with optimized flow.
   - Enhanced performance with modular, reusable components.
 
-- 🏬 **Timcheh** (Next.js + Tailwind CSS) [GitHub](https://github.com/YOUR_GITHUB_USERNAME/timcheh)
+- 🏬 **Timcheh** (Next.js + Tailwind CSS)
 
   - Developed an e-commerce UI with catalog & reviews.
   - Reduced user drop-off rate by **15%** through feedback-driven design tweaks.
 
-- 📊 **Dashboard** (Next.js + Bootstrap) [GitHub](https://github.com/YOUR_GITHUB_USERNAME/dashboard)
+- 📊 **Dashboard** (Next.js + Bootstrap)
 
   - Created a real-time KPI dashboard with modular components.
   - Improved analytics efficiency by **25%** with optimized data access.
 
-- 🏢 **Business** (Next.js + Bootstrap) [GitHub](https://github.com/YOUR_GITHUB_USERNAME/business-ui)
+- 🏢 **Business** (Next.js + Bootstrap)
 
   - Designed a professional services UI with clear feature sections.
   - Boosted user retention by **18%** via intuitive navigation.
 
-- 💻 **Technology Showcase** (Next.js + Bootstrap) [GitHub](https://github.com/YOUR_GITHUB_USERNAME/tech-showcase)
+- 💻 **Technology Showcase** (Next.js + Bootstrap)
   - Built a modular tech showcase platform with streamlined codebase.
   - Accelerated dev workflow with reusable, scalable design.
 
@@ -71,14 +67,14 @@ Proven ability to deliver **scalable, modular components** and enhance **user ex
 Islamic Azad University | 📅 Sep 2022 - Present
 
 - Relevant courses: Data Structures & Algorithms, Web Programming, Database Systems
-- Current GPA: **[Add GPA if 15+/20 or 3.0+/4.0]**
+- Current GPA: **15/20**
 
 ---
 
 ## 🌍 Languages
 
-- 🇮🇷 Persian: **Native**
-- 🇬🇧 English: **Upper Intermediate (B2)**
+- Persian: **Native**
+- English: **Upper Intermediate (B2)**
   - ✅ Reading: Strong (technical docs, academic materials)
   - ✅ Listening: Strong (tech tutorials, conferences)
   - ✅ Writing: Good (technical documentation, Git commits)
@@ -86,4 +82,4 @@ Islamic Azad University | 📅 Sep 2022 - Present
 
 ---
 
-✨ _Always learning, always building — Frontend is not just code, it’s crafting meaningful user experiences._ ✨
+✨ Always learning, always building - Frontend is not just code, it’s crafting meaningful user experiences.
