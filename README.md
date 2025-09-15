@@ -6,8 +6,6 @@
 
 Experienced **Frontend Developer** with **+20 months** of hands-on experience building high-performance **React** and **Next.js** applications.  
 Specialized in creating **responsive UIs**, writing **clean, maintainable code** and optimizing performance (achieved 20% faster load times).  
-Proven ability to deliver **scalable, modular components** and enhance **user experience** across multiple projects.  
-✨ Enthusiastic about **continuous learning**, **collaboration in agile teams**, and building modern, user-focused web solutions.
 
 ---
 
@@ -83,3 +81,4 @@ Islamic Azad University | 📅 Sep 2022 - Present
 ---
 
 ✨ Always learning, always building - Frontend is not just code, it’s crafting meaningful user experiences.
+
