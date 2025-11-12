@@ -32,8 +32,8 @@ Nov 2023 - Present
 **B.Sc. in Computer Engineering**  
 Islamic Azad University | Sep 2022 - Present
 
-- Relevant courses : Data Structures & Algorithms, Web Programming, Database Systems
 - Current GPA : **15/20**
+- Relevant courses : Data Structures & Algorithms, Web Programming, Database Systems
 
 ---
 
