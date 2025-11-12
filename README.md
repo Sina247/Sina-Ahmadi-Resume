@@ -1,7 +1,3 @@
-# 👨‍💻 Sina Ahmadi - Front End Developer
-
----
-
 ## 📝 Summary
 
 Experienced **Frontend Developer** with **+20 months** of hands-on experience building high-performance **React** and **Next.js** applications.  
@@ -12,8 +8,8 @@ Specialized in creating **responsive UIs**, writing **clean, maintainable code**
 ## 🛠️ Skills
 
 - **Core Technologies** : HTML, JavaScript, TypeScript
-- **Styling** : CSS, Bootstrap, Tailwind CSS
-- **Frameworks** : React, Next.js
+- **Styling** : CSS, Bootstrap, Tailwind CSS, Sass
+- **Frameworks** : React, Next.js, Vue.js
 - **State Management** : Redux Toolkit
 - **Version Control & Collaboration** : Git, GitHub
 
@@ -28,38 +24,6 @@ Nov 2023 - Present
 - Built and deployed **10+ SPAs**, improving UI load time by **20%**.
 - Collaborated with clients to deliver custom solutions tailored to business needs.
 - Designed and implemented **responsive UIs** with reusable components, achieving **80% Lighthouse mobile score**.
-
----
-
-## 📂 Personal Projects
-
-- **Shopping Cart** (React + TypeScript + Vite)
-
-  - Built a responsive e-commerce cart with optimized flow.
-  - Enhanced performance with modular, reusable components.
-
-
-- **Timcheh** (Next.js + Tailwind CSS)
-
-  - Developed an e-commerce UI with catalog & reviews.
-  - Reduced user drop-off rate by **15%** through feedback-driven design tweaks.
-
-
-- **Dashboard** (Next.js + Bootstrap)
-
-  - Created a real-time KPI dashboard with modular components.
-  - Improved analytics efficiency by **25%** with optimized data access.
-
-
-- **Business** (Next.js + Bootstrap)
-
-  - Designed a professional services UI with clear feature sections.
-  - Boosted user retention by **18%** via intuitive navigation.
-
-
-- **Technology Showcase** (Next.js + Bootstrap)
-  - Built a modular tech showcase platform with streamlined codebase.
-  - Accelerated dev workflow with reusable, scalable design.
 
 ---
 
