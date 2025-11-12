@@ -41,7 +41,3 @@ Islamic Azad University | Sep 2022 - Present
 
 - Persian : **Native**
 - English : **Upper Intermediate (B2)**
-
----
-
-✨ Always learning, always building - Frontend is not just code, it’s crafting meaningful user experiences.
